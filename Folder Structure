@@ -1,0 +1,8 @@
+gfx-site/
+│
+├─ index.html
+├─ style.css
+├─ images/
+│   ├─ portfolio1.png
+│   ├─ portfolio2.png
+│   └─ portfolio3.png
